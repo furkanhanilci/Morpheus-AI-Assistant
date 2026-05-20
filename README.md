@@ -101,6 +101,6 @@ Licensed under the **[Creative Commons BY-NC 4.0](https://creativecommons.org/li
 
 ## 👤 About the Developer
 
-Engineered by **Furkan Hanilçi** — Autonomous Systems Development Engineer & AI Researcher. Built with strict engineering principles to create an AI assistant ecosystem that pushes the limits of real-world functionality.
+Engineered by **Furkan Hanilçi** — Autonomous Vehicle Development Engineer & AI Researcher. Built with strict engineering principles to create an AI assistant ecosystem that pushes the limits of real-world functionality.
 
 ⭐ **Don't forget to star the repository to support the ongoing journey toward a fully Multi-Agent architecture!**
